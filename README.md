@@ -23,7 +23,7 @@ This project allows you to create rooms where you can ask questions that are ans
 ### 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd server
+cd quest-room-ia
 ```
 
 ### 2. Configure the database
