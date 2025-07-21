@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1752072866612,
+      "tag": "0000_wandering_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752154531611,
+      "tag": "0001_volatile_sister_grimm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752442741472,
+      "tag": "0002_grey_masque",
+      "breakpoints": true
+    }
+  ]
+}
